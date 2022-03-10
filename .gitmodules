@@ -1,0 +1,8 @@
+[submodule "cmdstan"]
+	path = cmdstan
+	url = https://github.com/stan-dev/cmdstan
+	branch = experiment/laplace
+[submodule "laplace_manuscript"]
+	path = laplace_manuscript
+	url = https://github.com/SteveBronder/laplace_manuscript
+	branch = new-laplace
